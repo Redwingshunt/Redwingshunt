@@ -65,8 +65,8 @@ li {
         <h2>Get in Touch</h2>
         <ul>
             <li>Email: alohaass12@example.com</li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/vaibhav-krishna-6aa663149/">Your LinkedIn Profile</a></li>
-            <li>Twitter: <a href="https://leetcode.com/alohaass12/">Leetcode</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/vaibhav-krishna-6aa663149/"></a></li>
+            <li>Leetcode: <a href="https://leetcode.com/alohaass12/"></a></li>
         </ul>
     </div>
 </body>
