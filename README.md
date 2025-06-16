@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm vaibhav, i'm a</h1> 
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&letterSpacing=&duration=8000&pause=1000&color=F7F400&multiline=true&width=500&lines=%22Software+Developer%22+%26+%22Cloud+Engineer%22)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?weight=1000&size=21&letterSpacing=&duration=8000&color=F7F400&multiline=true&width=500&lines=%22Software+Developer%22+%26+%22Cloud+Engineer%22)
+
+<h1>[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&letterSpacing=&duration=8000&pause=1000&color=F7F400&multiline=true&width=500&lines=%22Software+Developer%22+%26+%22Cloud+Engineer%22)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?weight=1000&size=21&letterSpacing=&duration=8000&color=F7F400&multiline=true&width=500&lines=%22Software+Developer%22+%26+%22Cloud+Engineer%22)</h1>
 
 
 <h3 align="center">A passionate full-developer from India</h3>
