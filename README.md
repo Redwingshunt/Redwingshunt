@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm vaibhav, i'm a</h1> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&duration=8000&pause=1000&color=F7F400&multiline=true&width=500&lines=%22Software+Developer%22+%26+%22Cloud+Engineer%22" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">A passionate Fullstack-developer from India</h3>
 
