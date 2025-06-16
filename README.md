@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&duration=8000&pause=1000&color=F7F400&multiline=true&width=500&lines=%22Software+Developer%22+%26+%22Cloud+Engineer%22" alt="Typing SVG" ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&duration=8000&pause=1000&color=F7F400&multiline=true&width=500&separator=%3D&lines=cout+%3C%3C%22Software+Developer%22+%3C%3C+%22Cloud+Engineer%22+%3C%3C+software+engineer+%3C%3C+endl;)](https://git.io/typing-svg)/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&duration=8000&pause=1000&color=F7F400&multiline=true&width=500&lines=%22Software+Developer%22+%26+%22Cloud+Engineer%22" alt="Typing SVG" ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&duration=8000&pause=1000&color=F7F400&multiline=true&width=500&separator=%3D&lines=cout+%3C%3C%22Software+Developer%22+%3C%3C+%22Cloud+Engineer%22+%3C%3C+software+engineer+%3C%3C+endl;" alt= "nope"/>
   </a>
 </p>
 
