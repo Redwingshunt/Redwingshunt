@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redwingshunt" alt="redwingshunt" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **GoLang with gin~framework**
 
-- 💬 Ask me about **Django, React, Flask, Nextjs,Vue,NestJs, Rails,**
+- 💬 Ask me about **Django, Expressjs, React, Flask, Nextjs,Vue,NestJs, Rails,**
 
 - 📫 How to reach me **vaibhavkrishna+github@gmail.com**
 
