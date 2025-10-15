@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **GoLang with gin~framework**
 
-- 💬 Ask me about **Django, Expressjs, Nodejs, React, Flask, Nextjs, Vue, NestJs, Rails,**
+- 💬 Ask me about **Django, Expressjs, Nodejs,Dotnet,spring, React, Flask, Nextjs, Vue, NestJs, Rails,**
 
 - 📫 How to reach me **vaibhavkrishna+github@gmail.com**
 
